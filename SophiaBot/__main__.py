@@ -94,7 +94,7 @@ buttons = [
     ],
 ]
 
-HELP_STRINGS = """
+HELP_STRINGS = """*Main Commands :* [🤖](https://telegra.ph/file/2d0fa7e07eb1fe3983aba.jpg)
 Hi Boss! I'm LUNA. An anime themed super powerful group management bot with many handy tools. So why are you waiting. Let me to assist you.
 """
 
